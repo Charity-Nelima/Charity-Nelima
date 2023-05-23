@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charity-nelima&label=Profile%20views&color=0e75b6&style=flat" alt="charity-nelima" /> </p>
 
-- 🌱 I’m currently learning **Python, Django, Vue Js and Angular Js.**
+- 🌱 I’m currently learning **Python, Django, Vue Js, Typescript and Angular Js.**
 
 - 📫 How to reach me **charity.w.nelima@gmail.com**
 
