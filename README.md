@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **charity.w.nelima@gmail.com**
 
-- 📄 Know about my experiences [https://ln.run/bAHOn](https://ln.run/bAHOn)
+- 📄 know more about my experiences [https://ln.run/bAHOn](https://ln.run/bAHOn)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
