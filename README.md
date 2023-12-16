@@ -1,4 +1,4 @@
-<h1 align="center">Hello, my name is Charity Nelima</h1>
+<h1 align="center">Hello am Charity Nelima</h1>
 <h3 align="center">A passionate Software Engineer interested in developing formidable solutions.</h3>
 <img align="right" alt="coding" width="300" border-radius="30px" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charity-nelima&label=Profile%20views&color=0e75b6&style=flat" alt="charity-nelima" /> </p>
