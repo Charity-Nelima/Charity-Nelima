@@ -9,31 +9,32 @@
 
 # Tech Stack
 
-## Frontend
-- React, Next.js, JSX, WordPress, HTML5/CSS3, JavaScript
+**Frontend:** React, Next.js, Nuxt.js, WordPress, HTML5/CSS3, and JavaScript
 
-## Mobile
-- React Native
+**Mobile:** React Native
 
-## UI Frameworks
-- Bootstrap, Tailwind CSS.
+**UI Frameworks:** Bootstrap, Tailwind CSS, Chakra UI, NativeBase, NextUI, and Ant Design
 
-## Backend
-- Node.js, Express, RubyonRails, Ruby
+**Backend:** Node.js, Express
 
-## Database
-- MongoDB
+**Database:** MongoDB
 
-## Orchestration
-- Docker.
+**Testing:** Jest
 
-## Cloud Provider
-- Heroku, AWS
+**Orchestration:** Docker, Kubernetes, Microservices
 
-## Technologies
-- Typescript, Rails, Git
+**Cloud Provider:** DigitalOcean
+
+**Technologies:** Directus, Typescript, Socket.io, Git
 
 ---
+
+## 💬 Quote
+"Don't downgrade your dream just to fit your reality. Upgrade your conviction to match your destiny."
+
+## 🌐 Portfolio
+View my portfolio [here](link_to_portfolio).
+
 
 
 ## 🌐 Portfolio
