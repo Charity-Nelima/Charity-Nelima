@@ -39,7 +39,7 @@ View my portfolio [here](https://nelima-charity.vercel.app/).
 <h3 align="left">Languages & Tools:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
 
-<p style="background-color: #f0f0f0;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=charity-nelima&show_icons=true&locale=en&layout=compact" alt="charity-nelima" /></p>
+<p style="background-color: #18171f;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=charity-nelima&show_icons=true&locale=en&layout=compact" alt="charity-nelima" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=charity-nelima&show_icons=true&locale=en" alt="charity-nelima" /></p>
 
