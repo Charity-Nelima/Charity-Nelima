@@ -4,59 +4,41 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charity-nelima&label=Profile%20views&color=0e75b6&style=flat" alt="charity-nelima" /> </p>
 
-## Tech Stack
-
-### Frontend
-- React
-- Next.js
-- Nuxt.js
-- WordPress
-- HTML5/CSS3
-- JavaScript
-
-### Mobile
-- React Native
-
-### UI Frameworks
-- Bootstrap
-- Tailwind CSS
-- Chakra UI
-- NativeBase
-- NextUI
-- Ant Design
-
-### Backend
-- Node.js
-- Express
-
-### Database
-- MongoDB
-
-### Testing
-- Jest
-
-### Orchestration
-- Docker
-- Kubernetes
-- Microservices
-
-### Cloud Provider
-- DigitalOcean
-
-### Technologies
-- Directus
-- Typescript
-- Socket.io
-- Git
-
-## 💬 Quote
-"Don't downgrade your dream just to fit your reality. Upgrade your conviction to match your destiny."
-
-## 🌐 Portfolio
-View my portfolio [here](link_to_portfolio).
-
 
 - 🌱 I’m currently learning **Python, Django, Typescript and Angular Js.**
+
+# Tech Stack
+
+## Frontend
+- React, Next.js, JSX, WordPress, HTML5/CSS3, JavaScript
+
+## Mobile
+- React Native
+
+## UI Frameworks
+- Bootstrap, Tailwind CSS.
+
+## Backend
+- Node.js, Express, RubyonRails, Ruby
+
+## Database
+- MongoDB
+
+## Orchestration
+- Docker.
+
+## Cloud Provider
+- Heroku, AWS
+
+## Technologies
+- Typescript, Rails, Git
+
+---
+
+
+## 🌐 Portfolio
+View my portfolio [here](https://nelima-charity.vercel.app/).
+
 
 - 📫 How to reach me **charity.w.nelima@gmail.com**
 
