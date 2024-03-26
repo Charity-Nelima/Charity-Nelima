@@ -43,4 +43,4 @@ View my portfolio [here](https://nelima-charity.vercel.app/).
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=charity-nelima&show_icons=true&locale=en&theme=holi" alt="charity-nelima" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charity-nelima&theme=holi" alt="charity-nelima" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charity-nelima&theme=blue_navy" alt="charity-nelima" /></p>
