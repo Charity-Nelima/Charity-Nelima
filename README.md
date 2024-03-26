@@ -41,6 +41,6 @@ View my portfolio [here](https://nelima-charity.vercel.app/).
 
 <p ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=charity-nelima&show_icons=true&locale=en&layout=compact&theme=holi" alt="charity-nelima" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=charity-nelima&show_icons=true&locale=en&theme=holi" alt="charity-nelima" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=charity-nelima&show_icons=true&locale=en&theme=blue_navy" alt="charity-nelima" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charity-nelima&theme=blue_navy" alt="charity-nelima" /></p>
