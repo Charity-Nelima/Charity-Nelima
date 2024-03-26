@@ -1,5 +1,5 @@
 <h3 align="left">A passionate Software Engineer interested in providing formidable solutions.</h3>
-<img align="right" margin-top="5%" alt="coding" width="300" border-radius="30px" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
+<img align="right" margin-top="5%" alt="coding" width="300" border-radius="50%" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charity-nelima&label=Profile%20views&color=0e75b6&style=flat" alt="charity-nelima" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charity-nelima&label=Profile%20views&color=0e75b6&style=flat" alt="charity-nelima" /> </p>
