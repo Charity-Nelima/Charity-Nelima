@@ -9,7 +9,7 @@
 
 
 
-<h3> 🔧 Tech Stack</h3>
+<h3>🔧 Tech Stack</h3>
 
 **Frontend:** React, Next.js, JSX, WordPress, HTML5/CSS3, and JavaScript
 
