@@ -23,7 +23,7 @@
 
 **Cloud Provider:** Heroku, AWS
 
-**Technologies:** Typescript, Git
+**Technologies:**  Git
 
 ---
 
