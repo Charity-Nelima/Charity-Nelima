@@ -19,8 +19,6 @@
 
 **Database:** MongoDB
 
-**Orchestration:** Docker
-
 **Cloud Provider:** Heroku, AWS
 
 **Technologies:**  Git
