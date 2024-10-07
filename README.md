@@ -15,7 +15,7 @@
 
 **UI Frameworks:** Bootstrap, Tailwind CSS, Material Ui
 
-**Backend:** Node.js, Express, RubyOnRails, Ruby
+**Backend:** Node.js, Express, RubyOnRails, Ruby, Django 
 
 **Database:** MongoDB
 
