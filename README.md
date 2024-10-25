@@ -13,7 +13,7 @@
 
 **Frontend:** React, Next.js, JSX, WordPress, HTML5/CSS3, and JavaScript
 
-**UI Frameworks:** Bootstrap, Tailwind CSS, Material Ui
+**UI Frameworks:** Bootstrap, Tailwind CSS, Material Ui, ShadCN
 
 **Backend:** Node.js, Express, RubyOnRails, Ruby, Django 
 
