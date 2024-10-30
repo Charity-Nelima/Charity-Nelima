@@ -19,6 +19,8 @@
 
 **Database:** MongoDB
 
+**Testing tools:** Cypress 
+
 **Cloud Provider:** Heroku, AWS
 
 **Technologies:**  Git
