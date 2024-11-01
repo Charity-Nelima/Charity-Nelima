@@ -28,7 +28,7 @@
 ---
 
 ## 🌐 Portfolio
-View my portfolio [here](https://nelima-charity.vercel.app/).
+View my portfolio [here](https://charity-nelima.github.io/Nelima/).
 
 - 🌱 I’m currently learning **Django, and Typescript**
 
