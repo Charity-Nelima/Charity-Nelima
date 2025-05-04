@@ -30,7 +30,7 @@
 ## 🌐 Portfolio
 View my portfolio [here](https://charity-nelima.github.io/Nelima/).
 
-- 🌱 I’m currently learning **Django, and Typescript**
+- 🌱 I’m currently learning **Django, Typescript and mobile development using React native**
 
 - 📫 How to reach me **charity.w.nelima@gmail.com**
 
